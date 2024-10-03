@@ -1,4 +1,4 @@
-alumno: Pascual Fernandez Jorge Alberto
+Alumno: Pascual Fernandez Jorge Alberto
 <br>
 Materia: Programacion 
 <br>
